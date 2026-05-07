@@ -1,0 +1,29 @@
+C:\TEAM\AlabamaTax\AlabamaTax\bin\Debug\App.config
+C:\TEAM\AlabamaTax\AlabamaTax\bin\Debug\AlabamaTax.exe.config
+C:\TEAM\AlabamaTax\AlabamaTax\bin\Debug\AlabamaTax.exe
+C:\TEAM\AlabamaTax\AlabamaTax\bin\Debug\AlabamaTax.pdb
+C:\TEAM\AlabamaTax\AlabamaTax\obj\x86\Debug\AlabamaTax.csprojAssemblyReference.cache
+C:\TEAM\AlabamaTax\AlabamaTax\obj\x86\Debug\AlabamaTax.Interface.resources
+C:\TEAM\AlabamaTax\AlabamaTax\obj\x86\Debug\AlabamaTax.csproj.GenerateResource.cache
+C:\TEAM\AlabamaTax\AlabamaTax\obj\x86\Debug\AlabamaTax.csproj.CoreCompileInputs.cache
+C:\TEAM\AlabamaTax\AlabamaTax\obj\x86\Debug\AlabamaTax.exe
+C:\TEAM\AlabamaTax\AlabamaTax\obj\x86\Debug\AlabamaTax.pdb
+E:\TEAM\AlabamaTax\AlabamaTax\obj\x86\Debug\AlabamaTax.Interface.resources
+E:\TEAM\AlabamaTax\AlabamaTax\obj\x86\Debug\AlabamaTax.csproj.GenerateResource.cache
+E:\TEAM\AlabamaTax\AlabamaTax\obj\x86\Debug\AlabamaTax.csproj.CoreCompileInputs.cache
+E:\TEAM\AlabamaTax\AlabamaTax\bin\Debug\App.config
+E:\TEAM\AlabamaTax\AlabamaTax\bin\Debug\AlabamaTax.exe.config
+E:\TEAM\AlabamaTax\AlabamaTax\bin\Debug\AlabamaTax.exe
+E:\TEAM\AlabamaTax\AlabamaTax\bin\Debug\AlabamaTax.pdb
+E:\TEAM\AlabamaTax\AlabamaTax\obj\x86\Debug\AlabamaTax.exe
+E:\TEAM\AlabamaTax\AlabamaTax\obj\x86\Debug\AlabamaTax.pdb
+E:\TEAM\AlabamaTax\AlabamaTax\obj\x86\Debug\AlabamaTax.csprojAssemblyReference.cache
+C:\_CLIENTS\COUGAR OIL\AlabamaTax\AlabamaTax\bin\Debug\App.config
+C:\_CLIENTS\COUGAR OIL\AlabamaTax\AlabamaTax\bin\Debug\AlabamaTax.exe.config
+C:\_CLIENTS\COUGAR OIL\AlabamaTax\AlabamaTax\bin\Debug\AlabamaTax.exe
+C:\_CLIENTS\COUGAR OIL\AlabamaTax\AlabamaTax\bin\Debug\AlabamaTax.pdb
+C:\_CLIENTS\COUGAR OIL\AlabamaTax\AlabamaTax\obj\x86\Debug\AlabamaTax.Interface.resources
+C:\_CLIENTS\COUGAR OIL\AlabamaTax\AlabamaTax\obj\x86\Debug\AlabamaTax.csproj.GenerateResource.cache
+C:\_CLIENTS\COUGAR OIL\AlabamaTax\AlabamaTax\obj\x86\Debug\AlabamaTax.exe
+C:\_CLIENTS\COUGAR OIL\AlabamaTax\AlabamaTax\obj\x86\Debug\AlabamaTax.pdb
+C:\_CLIENTS\COUGAR OIL\AlabamaTax\AlabamaTax\obj\x86\Debug\AlabamaTax.csprojResolveAssemblyReference.cache

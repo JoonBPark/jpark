@@ -1,0 +1,17 @@
+C:\TEAM\PB3v3\AlabamaTax\AlabamaTax\bin\Debug\App.config
+C:\TEAM\PB3v3\AlabamaTax\AlabamaTax\bin\Debug\AlabamaTax.exe.config
+C:\TEAM\PB3v3\AlabamaTax\AlabamaTax\bin\Debug\AlabamaTax.exe
+C:\TEAM\PB3v3\AlabamaTax\AlabamaTax\bin\Debug\AlabamaTax.pdb
+C:\TEAM\PB3v3\AlabamaTax\AlabamaTax\obj\x86\Debug\AlabamaTax.Interface.resources
+C:\TEAM\PB3v3\AlabamaTax\AlabamaTax\obj\x86\Debug\AlabamaTax.csproj.GenerateResource.Cache
+C:\TEAM\PB3v3\AlabamaTax\AlabamaTax\obj\x86\Debug\AlabamaTax.exe
+C:\TEAM\PB3v3\AlabamaTax\AlabamaTax\obj\x86\Debug\AlabamaTax.pdb
+C:\_CLIENTS\COUGAR OIL\AlabamaTax_Amended\AlabamaTax\bin\Debug\App.config
+C:\_CLIENTS\COUGAR OIL\AlabamaTax_Amended\AlabamaTax\bin\Debug\AlabamaTax.exe.config
+C:\_CLIENTS\COUGAR OIL\AlabamaTax_Amended\AlabamaTax\bin\Debug\AlabamaTax.exe
+C:\_CLIENTS\COUGAR OIL\AlabamaTax_Amended\AlabamaTax\bin\Debug\AlabamaTax.pdb
+C:\_CLIENTS\COUGAR OIL\AlabamaTax_Amended\AlabamaTax\obj\x86\Debug\AlabamaTax.csprojResolveAssemblyReference.cache
+C:\_CLIENTS\COUGAR OIL\AlabamaTax_Amended\AlabamaTax\obj\x86\Debug\AlabamaTax.Interface.resources
+C:\_CLIENTS\COUGAR OIL\AlabamaTax_Amended\AlabamaTax\obj\x86\Debug\AlabamaTax.csproj.GenerateResource.Cache
+C:\_CLIENTS\COUGAR OIL\AlabamaTax_Amended\AlabamaTax\obj\x86\Debug\AlabamaTax.exe
+C:\_CLIENTS\COUGAR OIL\AlabamaTax_Amended\AlabamaTax\obj\x86\Debug\AlabamaTax.pdb

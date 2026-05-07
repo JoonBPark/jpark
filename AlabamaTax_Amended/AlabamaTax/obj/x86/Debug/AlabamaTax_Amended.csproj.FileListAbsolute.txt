@@ -1,0 +1,8 @@
+C:\_CLIENTS\COUGAR OIL\AlabamaTax_Amended\AlabamaTax\bin\Debug\App.config
+C:\_CLIENTS\COUGAR OIL\AlabamaTax_Amended\AlabamaTax\bin\Debug\AlabamaTax.exe.config
+C:\_CLIENTS\COUGAR OIL\AlabamaTax_Amended\AlabamaTax\bin\Debug\AlabamaTax.exe
+C:\_CLIENTS\COUGAR OIL\AlabamaTax_Amended\AlabamaTax\bin\Debug\AlabamaTax.pdb
+C:\_CLIENTS\COUGAR OIL\AlabamaTax_Amended\AlabamaTax\obj\x86\Debug\AlabamaTax.Interface.resources
+C:\_CLIENTS\COUGAR OIL\AlabamaTax_Amended\AlabamaTax\obj\x86\Debug\AlabamaTax_Amended.csproj.GenerateResource.cache
+C:\_CLIENTS\COUGAR OIL\AlabamaTax_Amended\AlabamaTax\obj\x86\Debug\AlabamaTax.exe
+C:\_CLIENTS\COUGAR OIL\AlabamaTax_Amended\AlabamaTax\obj\x86\Debug\AlabamaTax.pdb

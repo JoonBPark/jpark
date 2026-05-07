@@ -1,0 +1,7 @@
+System.InvalidOperationException: Cross-thread operation not valid: Control 'logTextBox' accessed from a thread other than the thread it was created on.
+   at System.Windows.Forms.Control.get_Handle()
+   at System.Windows.Forms.TextBoxBase.GetSelectionStartAndLength(Int32& start, Int32& length)
+   at System.Windows.Forms.TextBoxBase.AppendText(String text)
+   at AlabamaTax.Interface.log(String info) in c:\TEAM\PB3v3\AlabamaTax\AlabamaTax\Interface.cs:line 36
+   at AlabamaTax.Submission.<>c__DisplayClass7.<Submit>b__4() in c:\TEAM\PB3v3\AlabamaTax\AlabamaTax\Submission.cs:line 143
+   at AlabamaTax.Submission.Submit() in c:\TEAM\PB3v3\AlabamaTax\AlabamaTax\Submission.cs:line 195

@@ -1,0 +1,110 @@
+D:\Team\Implementation\Chevron\OAuth2\OAuth2\obj\Debug\OAuth2.csproj.AssemblyReference.cache
+D:\Team\Implementation\Chevron\OAuth2\OAuth2\obj\Debug\OAuth2.csproj.SuggestedBindingRedirects.cache
+D:\Team\Implementation\Chevron\OAuth2\OAuth2\obj\Debug\OAuth2.MSAForm.resources
+D:\Team\Implementation\Chevron\OAuth2\OAuth2\obj\Debug\OAuth2.ClaimsForm.resources
+D:\Team\Implementation\Chevron\OAuth2\OAuth2\obj\Debug\OAuth2.DisplayJson.resources
+D:\Team\Implementation\Chevron\OAuth2\OAuth2\obj\Debug\OAuth2.Properties.Resources.resources
+D:\Team\Implementation\Chevron\OAuth2\OAuth2\obj\Debug\OAuth2.Selection.resources
+D:\Team\Implementation\Chevron\OAuth2\OAuth2\obj\Debug\OAuth2.csproj.GenerateResource.cache
+D:\Team\Implementation\Chevron\OAuth2\OAuth2\obj\Debug\OAuth2.exe.licenses
+D:\Team\Implementation\Chevron\OAuth2\OAuth2\obj\Debug\OAuth2.csproj.CoreCompileInputs.cache
+C:\OAuth2\OAuth2\bin\Debug\OAuth2.exe.config
+C:\OAuth2\OAuth2\obj\Debug\OAuth2.csproj.AssemblyReference.cache
+C:\OAuth2\OAuth2\obj\Debug\OAuth2.MSAForm.resources
+C:\OAuth2\OAuth2\obj\Debug\OAuth2.ClaimsForm.resources
+C:\OAuth2\OAuth2\obj\Debug\OAuth2.DisplayJson.resources
+C:\OAuth2\OAuth2\obj\Debug\OAuth2.Properties.Resources.resources
+C:\OAuth2\OAuth2\obj\Debug\OAuth2.Selection.resources
+C:\OAuth2\OAuth2\obj\Debug\OAuth2.csproj.GenerateResource.cache
+C:\OAuth2\OAuth2\obj\Debug\OAuth2.exe.licenses
+C:\OAuth2\OAuth2\obj\Debug\OAuth2.csproj.CoreCompileInputs.cache
+C:\Temp\OAuth2\OAuth2\bin\Debug\OAuth2.exe.config
+C:\Temp\OAuth2\OAuth2\obj\Debug\OAuth2.csproj.AssemblyReference.cache
+C:\Temp\OAuth2\OAuth2\obj\Debug\OAuth2.MSAForm.resources
+C:\Temp\OAuth2\OAuth2\obj\Debug\OAuth2.ClaimsForm.resources
+C:\Temp\OAuth2\OAuth2\obj\Debug\OAuth2.DisplayJson.resources
+C:\Temp\OAuth2\OAuth2\obj\Debug\OAuth2.Properties.Resources.resources
+C:\Temp\OAuth2\OAuth2\obj\Debug\OAuth2.Selection.resources
+C:\Temp\OAuth2\OAuth2\obj\Debug\OAuth2.csproj.GenerateResource.cache
+C:\Temp\OAuth2\OAuth2\obj\Debug\OAuth2.exe.licenses
+C:\Temp\OAuth2\OAuth2\obj\Debug\OAuth2.csproj.CoreCompileInputs.cache
+C:\Temp\OAuth2\OAuth2\bin\Debug\OAuth2.exe
+C:\Temp\OAuth2\OAuth2\bin\Debug\OAuth2.pdb
+C:\Temp\OAuth2\OAuth2\bin\Debug\EntityFramework.dll
+C:\Temp\OAuth2\OAuth2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Temp\OAuth2\OAuth2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Temp\OAuth2\OAuth2\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\OAuth2\OAuth2\bin\Debug\PayloadUtils.dll
+C:\Temp\OAuth2\OAuth2\bin\Debug\System.Buffers.dll
+C:\Temp\OAuth2\OAuth2\bin\Debug\System.Memory.dll
+C:\Temp\OAuth2\OAuth2\bin\Debug\System.Numerics.Vectors.dll
+C:\Temp\OAuth2\OAuth2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Temp\OAuth2\OAuth2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Temp\OAuth2\OAuth2\bin\Debug\System.Text.Json.dll
+C:\Temp\OAuth2\OAuth2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Temp\OAuth2\OAuth2\bin\Debug\System.ValueTuple.dll
+C:\Temp\OAuth2\OAuth2\bin\Debug\Authorization.dll
+C:\Temp\OAuth2\OAuth2\bin\Debug\netstandard.dll
+C:\Temp\OAuth2\OAuth2\bin\Debug\PayloadUtils.pdb
+C:\Temp\OAuth2\OAuth2\bin\Debug\PayloadUtils.dll.config
+C:\Temp\OAuth2\OAuth2\bin\Debug\EntityFramework.xml
+C:\Temp\OAuth2\OAuth2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Temp\OAuth2\OAuth2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Temp\OAuth2\OAuth2\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\OAuth2\OAuth2\bin\Debug\System.Buffers.xml
+C:\Temp\OAuth2\OAuth2\bin\Debug\System.Memory.xml
+C:\Temp\OAuth2\OAuth2\bin\Debug\System.Numerics.Vectors.xml
+C:\Temp\OAuth2\OAuth2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Temp\OAuth2\OAuth2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Temp\OAuth2\OAuth2\bin\Debug\System.Text.Json.xml
+C:\Temp\OAuth2\OAuth2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Temp\OAuth2\OAuth2\bin\Debug\System.ValueTuple.xml
+C:\Temp\OAuth2\OAuth2\bin\Debug\Authorization.pdb
+C:\Temp\OAuth2\OAuth2\obj\Debug\OAuth2.csproj.Up2Date
+C:\Temp\OAuth2\OAuth2\obj\Debug\OAuth2.exe
+C:\Temp\OAuth2\OAuth2\obj\Debug\OAuth2.pdb
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\OAuth2.exe.config
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\OAuth2.exe
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\OAuth2.pdb
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\EntityFramework.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\EntityFramework.SqlServer.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\Newtonsoft.Json.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\PayloadUtils.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\System.Buffers.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\System.Memory.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\System.Numerics.Vectors.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\System.Text.Encodings.Web.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\System.Text.Json.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\System.ValueTuple.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\Authorization.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\PayloadUtils.pdb
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\PayloadUtils.dll.config
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\EntityFramework.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\EntityFramework.SqlServer.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\Newtonsoft.Json.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\System.Buffers.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\System.Memory.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\System.Numerics.Vectors.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\System.Text.Encodings.Web.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\System.Text.Json.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\System.ValueTuple.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\obj\Debug\OAuth2.csproj.AssemblyReference.cache
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\obj\Debug\OAuth2.MSAForm.resources
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\obj\Debug\OAuth2.ClaimsForm.resources
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\obj\Debug\OAuth2.DisplayJson.resources
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\obj\Debug\OAuth2.Properties.Resources.resources
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\obj\Debug\OAuth2.Selection.resources
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\obj\Debug\OAuth2.csproj.GenerateResource.cache
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\obj\Debug\OAuth2.exe.licenses
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\obj\Debug\OAuth2.csproj.CoreCompileInputs.cache
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\obj\Debug\OAuth2.csproj.Up2Date
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\obj\Debug\OAuth2.exe
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\obj\Debug\OAuth2.pdb
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\obj\Debug\OAuth2.exe.config
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\OAuth2\bin\Debug\netstandard.dll

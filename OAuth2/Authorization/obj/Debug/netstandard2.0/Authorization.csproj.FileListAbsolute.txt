@@ -1,0 +1,30 @@
+D:\Team\Implementation\Chevron\OAuth2\Authorization\bin\Debug\netstandard2.0\Authorization.deps.json
+D:\Team\Implementation\Chevron\OAuth2\Authorization\bin\Debug\netstandard2.0\Authorization.dll
+D:\Team\Implementation\Chevron\OAuth2\Authorization\bin\Debug\netstandard2.0\Authorization.pdb
+D:\Team\Implementation\Chevron\OAuth2\Authorization\obj\Debug\netstandard2.0\Authorization.csproj.AssemblyReference.cache
+D:\Team\Implementation\Chevron\OAuth2\Authorization\obj\Debug\netstandard2.0\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Team\Implementation\Chevron\OAuth2\Authorization\obj\Debug\netstandard2.0\Authorization.AssemblyInfoInputs.cache
+D:\Team\Implementation\Chevron\OAuth2\Authorization\obj\Debug\netstandard2.0\Authorization.AssemblyInfo.cs
+D:\Team\Implementation\Chevron\OAuth2\Authorization\obj\Debug\netstandard2.0\Authorization.csproj.CoreCompileInputs.cache
+D:\Team\Implementation\Chevron\OAuth2\Authorization\obj\Debug\netstandard2.0\Authorization.dll
+D:\Team\Implementation\Chevron\OAuth2\Authorization\obj\Debug\netstandard2.0\Authorization.pdb
+C:\Temp\OAuth2\Authorization\bin\Debug\netstandard2.0\Authorization.deps.json
+C:\Temp\OAuth2\Authorization\bin\Debug\netstandard2.0\Authorization.dll
+C:\Temp\OAuth2\Authorization\bin\Debug\netstandard2.0\Authorization.pdb
+C:\Temp\OAuth2\Authorization\obj\Debug\netstandard2.0\Authorization.csproj.AssemblyReference.cache
+C:\Temp\OAuth2\Authorization\obj\Debug\netstandard2.0\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\OAuth2\Authorization\obj\Debug\netstandard2.0\Authorization.AssemblyInfoInputs.cache
+C:\Temp\OAuth2\Authorization\obj\Debug\netstandard2.0\Authorization.AssemblyInfo.cs
+C:\Temp\OAuth2\Authorization\obj\Debug\netstandard2.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Temp\OAuth2\Authorization\obj\Debug\netstandard2.0\Authorization.dll
+C:\Temp\OAuth2\Authorization\obj\Debug\netstandard2.0\Authorization.pdb
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\Authorization\bin\Debug\netstandard2.0\Authorization.deps.json
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\Authorization\bin\Debug\netstandard2.0\Authorization.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\Authorization\bin\Debug\netstandard2.0\Authorization.pdb
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\Authorization\obj\Debug\netstandard2.0\Authorization.csproj.AssemblyReference.cache
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\Authorization\obj\Debug\netstandard2.0\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\Authorization\obj\Debug\netstandard2.0\Authorization.AssemblyInfoInputs.cache
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\Authorization\obj\Debug\netstandard2.0\Authorization.AssemblyInfo.cs
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\Authorization\obj\Debug\netstandard2.0\Authorization.csproj.CoreCompileInputs.cache
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\Authorization\obj\Debug\netstandard2.0\Authorization.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\Authorization\obj\Debug\netstandard2.0\Authorization.pdb

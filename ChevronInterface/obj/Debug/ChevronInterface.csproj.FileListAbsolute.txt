@@ -1,0 +1,85 @@
+D:\Team\Implementation\Chevron\OAuth2\ChevronInterface\obj\Debug\ChevronInterface.csproj.AssemblyReference.cache
+D:\Team\Implementation\Chevron\OAuth2\ChevronInterface\obj\Debug\ChevronInterface.csproj.CoreCompileInputs.cache
+C:\OAuth2\ChevronInterface\obj\Debug\ChevronInterface.csproj.AssemblyReference.cache
+C:\OAuth2\ChevronInterface\obj\Debug\ChevronInterface.csproj.CoreCompileInputs.cache
+C:\Temp\OAuth2\ChevronInterface\obj\Debug\ChevronInterface.csproj.AssemblyReference.cache
+C:\Temp\OAuth2\ChevronInterface\obj\Debug\ChevronInterface.csproj.CoreCompileInputs.cache
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\ChevronInterface.dll.config
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\ChevronInterface.dll
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\ChevronInterface.pdb
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\EntityFramework.dll
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\OAuth2.exe
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\PayloadUtils.dll
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\System.Buffers.dll
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\System.Memory.dll
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\System.Numerics.Vectors.dll
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\System.Text.Encodings.Web.dll
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\System.Text.Json.dll
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\System.ValueTuple.dll
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\Authorization.dll
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\netstandard.dll
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\OAuth2.pdb
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\OAuth2.exe.config
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\PayloadUtils.pdb
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\PayloadUtils.dll.config
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\EntityFramework.xml
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\EntityFramework.SqlServer.xml
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\System.Buffers.xml
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\System.Memory.xml
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\System.Numerics.Vectors.xml
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\System.Text.Encodings.Web.xml
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\System.Text.Json.xml
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\System.ValueTuple.xml
+C:\Temp\OAuth2\ChevronInterface\bin\Debug\Authorization.pdb
+C:\Temp\OAuth2\ChevronInterface\obj\Debug\ChevronI.54BA2CDA.Up2Date
+C:\Temp\OAuth2\ChevronInterface\obj\Debug\ChevronInterface.dll
+C:\Temp\OAuth2\ChevronInterface\obj\Debug\ChevronInterface.pdb
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\ChevronInterface.dll.config
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\ChevronInterface.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\ChevronInterface.pdb
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\EntityFramework.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\EntityFramework.SqlServer.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\Newtonsoft.Json.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\OAuth2.exe
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\PayloadUtils.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\System.Buffers.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\System.Memory.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\System.Numerics.Vectors.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\System.Text.Encodings.Web.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\System.Text.Json.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\System.ValueTuple.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\Authorization.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\OAuth2.pdb
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\OAuth2.exe.config
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\PayloadUtils.pdb
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\PayloadUtils.dll.config
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\EntityFramework.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\EntityFramework.SqlServer.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\Newtonsoft.Json.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\System.Buffers.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\System.Memory.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\System.Numerics.Vectors.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\System.Text.Encodings.Web.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\System.Text.Json.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\System.ValueTuple.xml
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\obj\Debug\ChevronInterface.csproj.AssemblyReference.cache
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\obj\Debug\ChevronInterface.csproj.CoreCompileInputs.cache
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\obj\Debug\ChevronI.54BA2CDA.Up2Date
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\obj\Debug\ChevronInterface.dll
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\obj\Debug\ChevronInterface.pdb
+C:\_CLIENTS\CHAMBERS OIL\OAuth2\ChevronInterface\bin\Debug\netstandard.dll

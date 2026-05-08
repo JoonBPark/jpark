@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="ChevronModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Cbpmsadeliveryconfpayloads">
+          <Key>
+            <PropertyRef Name="CbpmsadeliveryconfpayloadID" />
+          </Key>
+          <Property Name="CbpmsadeliveryconfpayloadID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="customerUniqueId" Type="nvarchar(max)" />
+          <Property Name="marketerReceiptNumber" Type="nvarchar(max)" />
+          <Property Name="originalMarketerReceiptNumber" Type="nvarchar(max)" />
+          <Property Name="orderNumber" Type="nvarchar(max)" />
+          <Property Name="lineNumber" Type="nvarchar(max)" />
+          <Property Name="marketerAccountNumber" Type="nvarchar(max)" />
+          <Property Name="customerAccountNumber" Type="nvarchar(max)" />
+          <Property Name="orderDate" Type="nvarchar(max)" />
+          <Property Name="deliveryDate" Type="nvarchar(max)" />
+          <Property Name="transactionType" Type="nvarchar(max)" />
+          <Property Name="poNumber" Type="nvarchar(max)" />
+          <Property Name="releaseNumber" Type="nvarchar(max)" />
+          <Property Name="productCode" Type="nvarchar(max)" />
+          <Property Name="packageCode" Type="nvarchar(max)" />
+          <Property Name="numberOrdered" Type="nvarchar(max)" />
+          <Property Name="deliveredQuantity" Type="nvarchar(max)" />
+          <Property Name="requisitionNumber" Type="nvarchar(max)" />
+          <Property Name="jobNumber" Type="nvarchar(max)" />
+          <Property Name="unitNumber" Type="nvarchar(max)" />
+          <Property Name="corporatePurchaseOrderID" Type="nvarchar(max)" />
+          <Property Name="blanketPurchaseOrder" Type="nvarchar(max)" />
+          <Property Name="automaticSendIndicator" Type="nvarchar(max)" />
+          <Property Name="drumToteToBulkIndicator" Type="nvarchar(max)" />
+          <Property Name="serviceFees" Type="nvarchar(max)" />
+          <Property Name="partialDelivery" Type="nvarchar(max)" />
+          <Property Name="Uploaded" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Claims">
+          <Key>
+            <PropertyRef Name="claimsId" />
+          </Key>
+          <Property Name="claimsId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="deliveryDate" Type="varchar" MaxLength="20" />
+          <Property Name="rebateRate" Type="decimal" Precision="18" Scale="6" />
+          <Property Name="productCode" Type="varchar" MaxLength="6" />
+          <Property Name="c2RebateAccountNumber" Type="varchar" MaxLength="50" />
+          <Property Name="deliveredQuantity" Type="decimal" Precision="18" Scale="6" />
+          <Property Name="customerAccountName" Type="varchar" MaxLength="50" />
+          <Property Name="marketerEmail" Type="varchar" MaxLength="50" />
+          <Property Name="marketerRebateNumber" Type="varchar" MaxLength="50" />
+          <Property Name="clientId" Type="varchar" MaxLength="50" />
+          <Property Name="customerAccountNumber" Type="varchar" MaxLength="50" />
+          <Property Name="packageCode" Type="varchar" MaxLength="50" />
+          <Property Name="marketerName" Type="varchar" MaxLength="50" />
+          <Property Name="Uploaded" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="ChevronModelStoreContainer">
+          <EntitySet Name="Cbpmsadeliveryconfpayloads" EntityType="Self.Cbpmsadeliveryconfpayloads" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Claims" EntityType="Self.Claims" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="ChevronModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Cbpmsadeliveryconfpayload">
+          <Key>
+            <PropertyRef Name="CbpmsadeliveryconfpayloadID" />
+          </Key>
+          <Property Name="CbpmsadeliveryconfpayloadID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="customerUniqueId" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="marketerReceiptNumber" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="originalMarketerReceiptNumber" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="orderNumber" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="lineNumber" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="marketerAccountNumber" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="customerAccountNumber" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="orderDate" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="deliveryDate" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="transactionType" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="poNumber" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="releaseNumber" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="productCode" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="packageCode" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="numberOrdered" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="deliveredQuantity" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="requisitionNumber" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="jobNumber" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="unitNumber" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="corporatePurchaseOrderID" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="blanketPurchaseOrder" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="automaticSendIndicator" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="drumToteToBulkIndicator" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="serviceFees" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="partialDelivery" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="Uploaded" Type="Boolean" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Claim">
+          <Key>
+            <PropertyRef Name="claimsId" />
+          </Key>
+          <Property Name="claimsId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="deliveryDate" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="rebateRate" Type="Decimal" Precision="18" Scale="6" />
+          <Property Name="productCode" Type="String" MaxLength="6" FixedLength="false" Unicode="false" />
+          <Property Name="c2RebateAccountNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="deliveredQuantity" Type="Decimal" Precision="18" Scale="6" />
+          <Property Name="customerAccountName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="marketerEmail" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="marketerRebateNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="clientId" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="customerAccountNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="packageCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="marketerName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Uploaded" Type="Boolean" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="ChevronEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Cbpmsadeliveryconfpayloads" EntityType="Self.Cbpmsadeliveryconfpayload" />
+          <EntitySet Name="Claims" EntityType="Self.Claim" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="ChevronModelStoreContainer" CdmEntityContainer="ChevronEntities">
+          <EntitySetMapping Name="Cbpmsadeliveryconfpayloads">
+            <EntityTypeMapping TypeName="ChevronModel.Cbpmsadeliveryconfpayload">
+              <MappingFragment StoreEntitySet="Cbpmsadeliveryconfpayloads">
+                <ScalarProperty Name="CbpmsadeliveryconfpayloadID" ColumnName="CbpmsadeliveryconfpayloadID" />
+                <ScalarProperty Name="customerUniqueId" ColumnName="customerUniqueId" />
+                <ScalarProperty Name="marketerReceiptNumber" ColumnName="marketerReceiptNumber" />
+                <ScalarProperty Name="originalMarketerReceiptNumber" ColumnName="originalMarketerReceiptNumber" />
+                <ScalarProperty Name="orderNumber" ColumnName="orderNumber" />
+                <ScalarProperty Name="lineNumber" ColumnName="lineNumber" />
+                <ScalarProperty Name="marketerAccountNumber" ColumnName="marketerAccountNumber" />
+                <ScalarProperty Name="customerAccountNumber" ColumnName="customerAccountNumber" />
+                <ScalarProperty Name="orderDate" ColumnName="orderDate" />
+                <ScalarProperty Name="deliveryDate" ColumnName="deliveryDate" />
+                <ScalarProperty Name="transactionType" ColumnName="transactionType" />
+                <ScalarProperty Name="poNumber" ColumnName="poNumber" />
+                <ScalarProperty Name="releaseNumber" ColumnName="releaseNumber" />
+                <ScalarProperty Name="productCode" ColumnName="productCode" />
+                <ScalarProperty Name="packageCode" ColumnName="packageCode" />
+                <ScalarProperty Name="numberOrdered" ColumnName="numberOrdered" />
+                <ScalarProperty Name="deliveredQuantity" ColumnName="deliveredQuantity" />
+                <ScalarProperty Name="requisitionNumber" ColumnName="requisitionNumber" />
+                <ScalarProperty Name="jobNumber" ColumnName="jobNumber" />
+                <ScalarProperty Name="unitNumber" ColumnName="unitNumber" />
+                <ScalarProperty Name="corporatePurchaseOrderID" ColumnName="corporatePurchaseOrderID" />
+                <ScalarProperty Name="blanketPurchaseOrder" ColumnName="blanketPurchaseOrder" />
+                <ScalarProperty Name="automaticSendIndicator" ColumnName="automaticSendIndicator" />
+                <ScalarProperty Name="drumToteToBulkIndicator" ColumnName="drumToteToBulkIndicator" />
+                <ScalarProperty Name="serviceFees" ColumnName="serviceFees" />
+                <ScalarProperty Name="partialDelivery" ColumnName="partialDelivery" />
+                <ScalarProperty Name="Uploaded" ColumnName="Uploaded" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Claims">
+            <EntityTypeMapping TypeName="ChevronModel.Claim">
+              <MappingFragment StoreEntitySet="Claims">
+                <ScalarProperty Name="claimsId" ColumnName="claimsId" />
+                <ScalarProperty Name="deliveryDate" ColumnName="deliveryDate" />
+                <ScalarProperty Name="rebateRate" ColumnName="rebateRate" />
+                <ScalarProperty Name="productCode" ColumnName="productCode" />
+                <ScalarProperty Name="c2RebateAccountNumber" ColumnName="c2RebateAccountNumber" />
+                <ScalarProperty Name="deliveredQuantity" ColumnName="deliveredQuantity" />
+                <ScalarProperty Name="customerAccountName" ColumnName="customerAccountName" />
+                <ScalarProperty Name="marketerEmail" ColumnName="marketerEmail" />
+                <ScalarProperty Name="marketerRebateNumber" ColumnName="marketerRebateNumber" />
+                <ScalarProperty Name="clientId" ColumnName="clientId" />
+                <ScalarProperty Name="customerAccountNumber" ColumnName="customerAccountNumber" />
+                <ScalarProperty Name="packageCode" ColumnName="packageCode" />
+                <ScalarProperty Name="marketerName" ColumnName="marketerName" />
+                <ScalarProperty Name="Uploaded" ColumnName="Uploaded" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

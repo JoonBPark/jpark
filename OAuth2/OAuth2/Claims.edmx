@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="ClaimsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Claims">
+          <Key>
+            <PropertyRef Name="claimsId" />
+          </Key>
+          <Property Name="claimsId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="deliveryDate" Type="varchar" MaxLength="20" />
+          <Property Name="rebateRate" Type="decimal" Precision="18" Scale="6" />
+          <Property Name="productCode" Type="varchar" MaxLength="6" />
+          <Property Name="c2RebateAccountNumber" Type="varchar" MaxLength="50" />
+          <Property Name="deliveredQuantity" Type="decimal" Precision="18" Scale="6" />
+          <Property Name="customerAccountName" Type="varchar" MaxLength="50" />
+          <Property Name="marketerEmail" Type="varchar" MaxLength="50" />
+          <Property Name="marketerRebateNumber" Type="varchar" MaxLength="50" />
+          <Property Name="clientId" Type="varchar" MaxLength="50" />
+          <Property Name="customerAccountNumber" Type="varchar" MaxLength="50" />
+          <Property Name="packageCode" Type="varchar" MaxLength="50" />
+          <Property Name="marketerName" Type="varchar" MaxLength="50" />
+          <Property Name="Uploaded" Type="bit" />
+        </EntityType>
+        <EntityContainer Name="ClaimsModelStoreContainer">
+          <EntitySet Name="Claims" EntityType="Self.Claims" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="ClaimsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Claim">
+          <Key>
+            <PropertyRef Name="claimsId" />
+          </Key>
+          <Property Name="claimsId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="deliveryDate" Type="String" MaxLength="20" Unicode="false" FixedLength="false" />
+          <Property Name="rebateRate" Type="Decimal" Precision="18" Scale="6" />
+          <Property Name="c2RebateAccountNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="customerAccountName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="marketerEmail" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="marketerRebateNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="clientId" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="customerAccountNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="marketerName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="ProductCode" Type="String" MaxLength="6" FixedLength="false" Unicode="false" />
+          <Property Name="DeliveredQuantity" Type="Decimal" Precision="18" Scale="6" />
+          <Property Name="PackageCode" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Uploaded" Type="Boolean" />
+        </EntityType>
+        <EntityContainer Name="ClaimsEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Claims" EntityType="Self.Claim" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="ClaimsModelStoreContainer" CdmEntityContainer="ClaimsEntities">
+          <EntitySetMapping Name="Claims">
+            <EntityTypeMapping TypeName="ClaimsModel.Claim">
+              <MappingFragment StoreEntitySet="Claims">
+                <ScalarProperty Name="Uploaded" ColumnName="Uploaded" />
+                <ScalarProperty Name="PackageCode" ColumnName="packageCode" />
+                <ScalarProperty Name="DeliveredQuantity" ColumnName="deliveredQuantity" />
+                <ScalarProperty Name="ProductCode" ColumnName="productCode" />
+                <ScalarProperty Name="claimsId" ColumnName="claimsId" />
+                <ScalarProperty Name="deliveryDate" ColumnName="deliveryDate" />
+                <ScalarProperty Name="rebateRate" ColumnName="rebateRate" />
+                <ScalarProperty Name="c2RebateAccountNumber" ColumnName="c2RebateAccountNumber" />
+                <ScalarProperty Name="customerAccountName" ColumnName="customerAccountName" />
+                <ScalarProperty Name="marketerEmail" ColumnName="marketerEmail" />
+                <ScalarProperty Name="marketerRebateNumber" ColumnName="marketerRebateNumber" />
+                <ScalarProperty Name="clientId" ColumnName="clientId" />
+                <ScalarProperty Name="customerAccountNumber" ColumnName="customerAccountNumber" />
+                <ScalarProperty Name="marketerName" ColumnName="marketerName" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

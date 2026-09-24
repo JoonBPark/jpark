@@ -1,2 +1,0 @@
-# jpark
-myprojects
